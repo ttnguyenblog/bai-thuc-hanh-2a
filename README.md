@@ -27,3 +27,6 @@ Yêu cầu:
 - Thiết kế màu nền, màu chữ, định dạng chữ, phân cách nội dung, chèn hình ảnh minh họa phù hợp.
 - Phần header: sử dụng kỹ thuật bookmark cho phép người dùng chọn nội dung cần xem bằng cách nhấp chuột vào liên kết.
 - Phần footer: sử dụng kỹ thuật bookmark thiết kế liên kết cho người dùng có thể quay về đầu trang bằng cách nhấp chuột vào liên kết
+
+
+hihi
