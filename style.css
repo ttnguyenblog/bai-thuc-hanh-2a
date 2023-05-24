@@ -1,0 +1,45 @@
+body{
+    padding: 0 10px;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+
+.nav-header{
+    display: flex;
+}
+
+.nav-header .items{
+    padding: 0 22%;
+}
+
+.content{
+    display: flex;
+}
+
+.content .content-items{
+    padding-left: 144px;
+}
+
+
+footer{
+    background-color: yellow;
+    height: 48px;
+    padding-bottom: 10px;
+}
+
+footer p{
+    text-align: center;
+    line-height: 48px;
+    font-weight: bold;
+}
+
+.back-to-top{
+    float: right;
+}
+
+html{
+    scroll-behavior: smooth;
+}
